@@ -10,3 +10,14 @@ h2 {
   font-weight: 300;
   font-size: 32px;
 }
+a {
+  color: aquamarine;
+  font-size: 16px;
+}
+.details {
+  color: gray;
+}
+footer {
+  color: gray;
+  text-align: right;
+}
